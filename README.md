@@ -2,11 +2,11 @@
 
 This project explores the use of decision tree classification to analyze and predict student academic performance tiers (Low, Average, High) based on demographic, socioeconomic, and behavioral data. The goal is to understand key factors influencing academic outcomes and provide actionable insights for educators and policymakers.
 
-##Overview
+## Overview
 
 The project aims to identify factors that most influence student academic performance and build a predictive model to classify students into performance tiers. By leveraging decision tree analysis, the study sheds light on how various features impact performance and provides practical recommendations for targeted educational interventions.
 
-##Dataset
+## Dataset
 
 The dataset includes the following features:
 -**Math Score**: Numeric score representing the student's math performance.
@@ -18,6 +18,7 @@ The dataset includes the following features:
 -**Performance Category**: Target variable categorizing student performance into Low, Average, or High.
 
 **Dataset Source**: [Student Performance Data](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
+
 
 ## Features of the Project
 
